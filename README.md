@@ -1,2 +1,2 @@
 # Personal-Phonebook
-A Simple Password Secured Phonebook built with C Language - 2017
+A Simple Password Secured Phonebook built with C Language | 2017
